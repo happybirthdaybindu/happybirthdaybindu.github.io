@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://happybirthdaybindu.github.io/categories/</loc>
+    <loc>https://happybirthdaybindu.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://happybirthdaybindu.github.io/tags/</loc>
+    <loc>https://happybirthdaybindu.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://happybirthdaybindu.github.io/</loc>
+    <loc>https://happybirthdaybindu.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
